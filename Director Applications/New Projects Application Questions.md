@@ -1,0 +1,12 @@
+- if you're in a pair (drop name of partner and zid) (make sure you both put each other)
+- Give us an elevator pitch about what your project is (200 words or less) (be sure to touch on benefits to the student community)
+- How would your project benefit from having a subcomm/support from devsoc?
+- What are you expecting from us? (subcom numbers, any other technical stuff?)
+- What expertise do you have that would make you a good director and what expertise do you need in your team?
+- do you wanna be director or subcom for your own project? do u even wanna be subcom?
+- As a DevSoc director, you will make high-level decisions, overlook and organise meetings for a team of around 6-10 subcommittee members. This means that you will have to potentially upskill your members in a variety of technical areas and support their learning processes along the way. It also means that you will need to help facilitate bonding to ensure that your members feel welcomed and supported. What leadership skills and experiences do you have that would allow you to uphold these responsibilities?
+- we only have capacity to introduce one or two new projects this year, in the case your project is not selected, would you be interested in co-directing another project?
+- We're not expecting any progress to be made but has anything been planned or worked on previously? (add any links?)
+  - Please link if you have any work (e.g. websites, portfolio websites etc.) you have done previously that is relevant to the role you are applying for.
+  - If shortlisted, you'll be required to pitch your project, are you available on X date
+

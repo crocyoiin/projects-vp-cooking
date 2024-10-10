@@ -1,5 +1,6 @@
-08/10/2024
-
+---
+date: 2024-10-08
+---
 ## prospectus writing (mainly nicole)
 - steal old descriptions/summaries (get)
 - new features or upcoming goals
@@ -147,9 +148,9 @@ what do we want them to cover on each checkpoint?
 
 ## Actionables
 - 1 clean up qns to ask directors (split to ask) (nicc freerooms)
-- 2 clean up form questions (flynn)
+- 2 clean up form questions (flynn) -> [[New Projects Application Questions]]
 - 2 new projects spec (nicole)
-- 3 clean goals document (flynn)
+- 3 clean goals document (flynn) -> [[Projects Goals]]
 - next meeting: tent 20/10 (morning or after)
 - 3 prospectus (nicole)
 
