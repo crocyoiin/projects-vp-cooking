@@ -16,3 +16,8 @@
 - trainee pipeline
 	- lead /director referral maybe?
 	- hard reserve spots
+
+
+
+- cross port bondings t2/3 (crossover with ops)
+- biweekly sidequests
